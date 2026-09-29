@@ -7,6 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'GET') {
     exit;
 }
 
+
 require '../conexion.php'; 
 
 try {
