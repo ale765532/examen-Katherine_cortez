@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Modificar Película</title>
+    <title>Modificar Película</title> 
 </head>
 <body style="text-align: center; font-family: Arial, sans-serif; background-color: #f4f4f9; padding: 20px;">
 
