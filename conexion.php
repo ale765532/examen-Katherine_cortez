@@ -23,6 +23,7 @@ else {
     $pass = 'TU_CONTRASEÑA_INFINITYFREE'; // Pon aquí tu contraseña real
 }
 
+
 $charset = 'utf8mb4';
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 
