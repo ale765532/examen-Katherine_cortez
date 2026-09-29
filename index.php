@@ -29,7 +29,7 @@ $peliculas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <body style="text-align: center; font-family: Arial, sans-serif; background-color: #f4f4f9; padding: 20px;">
 
     <h1>Catálogo de Películas</h1>
-    
+     
     <!-- Botones de Navegación -->
     <div style="margin-bottom: 20px;">
         <a href="agregar.php"><button style="padding: 10px 15px; background: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Añadir Nueva Película</button></a>
